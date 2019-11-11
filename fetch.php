@@ -27,6 +27,7 @@ foreach ($data as $key => &$value) {
     }
 }
 echo json_encode($data);
+
 //echo '<br>';
 //echo '<pre>';
 //print_r($data);
